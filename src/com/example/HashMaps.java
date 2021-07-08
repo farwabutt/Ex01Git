@@ -25,7 +25,7 @@ public class HashMaps {
         return maps;
     }
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         HashMaps data = new HashMaps();
         data.addKeyValue("Civic", 2020);
         data.addKeyValue("Mercedes", 2018);
