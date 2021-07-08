@@ -31,6 +31,7 @@ public class HashMaps {
         data.addKeyValue("Mercedes", 2018);
         data.addKeyValue("Ferrari", 2016);
         data.addKeyValue("Sportage",2020);
+        data.addKeyValue("Porshe",2020);
         System.out.println("Our Showroom has the following collections with Models released as:");
         data.showRecord();
 
